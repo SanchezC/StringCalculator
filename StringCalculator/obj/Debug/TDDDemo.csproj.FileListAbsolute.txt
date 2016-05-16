@@ -1,0 +1,5 @@
+E:\TDD_Demo\TDDDemo\bin\Debug\TDDDemo.dll
+E:\TDD_Demo\TDDDemo\bin\Debug\TDDDemo.pdb
+E:\TDD_Demo\TDDDemo\obj\Debug\TDDDemo.dll
+E:\TDD_Demo\TDDDemo\obj\Debug\TDDDemo.pdb
+E:\TDD_Demo\TDDDemo\obj\Debug\TDDDemo.csprojResolveAssemblyReference.cache

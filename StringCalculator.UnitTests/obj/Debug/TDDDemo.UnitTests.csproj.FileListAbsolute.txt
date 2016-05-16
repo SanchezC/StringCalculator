@@ -1,0 +1,15 @@
+E:\TDD_Demo\TDDDemo.UnitTests\bin\Debug\TDDDemo.UnitTests.dll
+E:\TDD_Demo\TDDDemo.UnitTests\bin\Debug\TDDDemo.UnitTests.pdb
+E:\TDD_Demo\TDDDemo.UnitTests\bin\Debug\FluentAssertions.Core.dll
+E:\TDD_Demo\TDDDemo.UnitTests\bin\Debug\FluentAssertions.dll
+E:\TDD_Demo\TDDDemo.UnitTests\bin\Debug\nunit.framework.dll
+E:\TDD_Demo\TDDDemo.UnitTests\bin\Debug\TDDDemo.dll
+E:\TDD_Demo\TDDDemo.UnitTests\bin\Debug\TDDDemo.pdb
+E:\TDD_Demo\TDDDemo.UnitTests\bin\Debug\FluentAssertions.pdb
+E:\TDD_Demo\TDDDemo.UnitTests\bin\Debug\FluentAssertions.xml
+E:\TDD_Demo\TDDDemo.UnitTests\bin\Debug\FluentAssertions.Core.pdb
+E:\TDD_Demo\TDDDemo.UnitTests\bin\Debug\FluentAssertions.Core.xml
+E:\TDD_Demo\TDDDemo.UnitTests\bin\Debug\nunit.framework.xml
+E:\TDD_Demo\TDDDemo.UnitTests\obj\Debug\TDDDemo.UnitTests.csprojResolveAssemblyReference.cache
+E:\TDD_Demo\TDDDemo.UnitTests\obj\Debug\TDDDemo.UnitTests.dll
+E:\TDD_Demo\TDDDemo.UnitTests\obj\Debug\TDDDemo.UnitTests.pdb

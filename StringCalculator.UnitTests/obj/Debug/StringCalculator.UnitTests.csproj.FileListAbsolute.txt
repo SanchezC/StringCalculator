@@ -1,0 +1,15 @@
+E:\TDD_Demo\StringCalculator.UnitTests\bin\Debug\StringCalculator.UnitTests.dll
+E:\TDD_Demo\StringCalculator.UnitTests\bin\Debug\StringCalculator.UnitTests.pdb
+E:\TDD_Demo\StringCalculator.UnitTests\bin\Debug\FluentAssertions.Core.dll
+E:\TDD_Demo\StringCalculator.UnitTests\bin\Debug\FluentAssertions.dll
+E:\TDD_Demo\StringCalculator.UnitTests\bin\Debug\nunit.framework.dll
+E:\TDD_Demo\StringCalculator.UnitTests\bin\Debug\StringCalculator.dll
+E:\TDD_Demo\StringCalculator.UnitTests\bin\Debug\StringCalculator.pdb
+E:\TDD_Demo\StringCalculator.UnitTests\bin\Debug\FluentAssertions.pdb
+E:\TDD_Demo\StringCalculator.UnitTests\bin\Debug\FluentAssertions.xml
+E:\TDD_Demo\StringCalculator.UnitTests\bin\Debug\FluentAssertions.Core.pdb
+E:\TDD_Demo\StringCalculator.UnitTests\bin\Debug\FluentAssertions.Core.xml
+E:\TDD_Demo\StringCalculator.UnitTests\bin\Debug\nunit.framework.xml
+E:\TDD_Demo\StringCalculator.UnitTests\obj\Debug\StringCalculator.UnitTests.csprojResolveAssemblyReference.cache
+E:\TDD_Demo\StringCalculator.UnitTests\obj\Debug\StringCalculator.UnitTests.dll
+E:\TDD_Demo\StringCalculator.UnitTests\obj\Debug\StringCalculator.UnitTests.pdb
